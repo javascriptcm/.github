@@ -45,14 +45,21 @@
    - [Project 1](#) *(e.g., Website Js Cameroun)*
 3. **Mentor** aspiring developers.  
 
----
+## **🌟 Mainteneurs**  
 
-## Maintainers 🤝
+<div align="center">
+   <a href="https://github.com/bleriotnoguia">
+    <img src="https://github.com/bleriotnoguia.png" width="80" style="border-radius:50%">
+  </a>
+  <a href="https://github.com/pouani">
+    <img src="https://github.com/pouani.png" width="80" style="border-radius:50%">
+  </a>
+</div>
 
-This project is proudly maintained by:
-
-- [@bleriotnoguia](https://github.com/bleriotnoguia)
-- [@ulrichpouani](https://github.com/ulrichpouani)  
+<p align="center">
+   <a href="https://github.com/bleriotnoguia">Bleriot Noguia</a> •
+  <a href="https://github.com/ulrichpouani">Ulrich Pouani</a> •
+</p>
 
 ---
 
