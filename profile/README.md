@@ -22,12 +22,38 @@
 
 ---
 
+## **🎯 Our Focus Areas**  
+
+| Pillar          | Key Initiatives                                                                 |
+|-----------------|---------------------------------------------------------------------------------|
+| **Education**   | Hands-on bootcamps, coding challenges, and mentorship programs.                |
+| **Community**   | Tech talks, blog posts, and localized documentation (e.g., React docs in French). |
+| **Innovation**  | Open-source projects addressing local needs (e.g., FinTech, HealthTech).        |
+
+---
+
+## **💡 Get Involved**  
+
+### 👥 **For Members**  
+- Join our [Telegram Group](#) *(link coming soon!)*  
+- Attend **monthly events** (hackathons, live-coding sessions).  
+- Share projects with `#JSCameroon` on social media.  
+
+### 🛠 **For Contributors**  
+1. **Propose** a workshop topic or write a technical article.  
+2. **Contribute** to our GitHub projects:  
+   - [Project 1](#) *(e.g., Cameroon payment API wrapper)*  
+   - [Project 2](#) *(e.g., French JS tutorials)*  
+3. **Mentor** aspiring developers.  
+
+---
+
 ## Maintainers 🤝
 
 This project is proudly maintained by:
 
-- [@ulrichpouani](https://github.com/ulrichpouani)  
 - [@bleriotnoguia](https://github.com/bleriotnoguia)
+- [@ulrichpouani](https://github.com/ulrichpouani)  
 
 ---
 
