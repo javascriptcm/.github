@@ -31,4 +31,15 @@ This project is proudly maintained by:
 
 ---
 
-Thank you for being part of this journey to elevate **JavaScript Cameroun** and shape the future of tech in 🇨🇲!
+## **📌 Next Steps**  
+1. ⭐ **Star this repo** to support our community.  
+2. 📩 **Contact us**: hello@jscameroon.org *(example)*.  
+3. 🌐 **Follow us**: [Twitter](#) | [LinkedIn](#) | [YouTube](#).  
+
+---
+
+<p align="center">
+  <em>Built with ❤️ in Yaoundé, Douala, and across Cameroon</em>  
+  <br>
+  <img src="https://img.shields.io/github/stars/jscameroon/community?style=social" alt="GitHub Stars">
+</p>
