@@ -33,7 +33,7 @@ This project is proudly maintained by:
 
 ## **📌 Next Steps**  
 1. ⭐ **Star this repo** to support our community.  
-2. 📩 **Contact us**: hello@jscameroon.org *(example)*.  
+2. 📩 **Contact us**: support@jscameroon.org 
 3. 🌐 **Follow us**: [Twitter](#) | [LinkedIn](#) | [YouTube](#).  
 
 ---
