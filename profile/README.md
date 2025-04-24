@@ -49,10 +49,10 @@
 
 <div align="center">
    <a href="https://github.com/bleriotnoguia">
-    <img src="https://github.com/bleriotnoguia.png" width="80" style="border-radius:50%">
+    <img src="https://github.com/bleriotnoguia.png" width="60" style="border-radius:50%">
   </a>
   <a href="https://github.com/pouani">
-    <img src="https://github.com/pouani.png" width="80" style="border-radius:50%">
+    <img src="https://github.com/pouani.png" width="60" style="border-radius:50%">
   </a>
 </div>
 
