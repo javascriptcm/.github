@@ -1,6 +1,6 @@
 # Welcome to JavaScript Cameroun 🇨🇲
 
-![JS Cameroun Logo](../../js-cameroun-logo.png))
+![JS Cameroun Logo](../../js-cameroun-logo.png)
 
 **JavaScript Cameroun** is a vibrant community dedicated to promoting learning, collaboration, and innovation around the JavaScript ecosystem — from the web to mobile and backend technologies. Whether you're just starting out or already an experienced developer, you're welcome to grow with us.
 
