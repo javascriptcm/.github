@@ -42,8 +42,7 @@
 ### 🛠 **For Contributors**  
 1. **Propose** a workshop topic or write a technical article.  
 2. **Contribute** to our GitHub projects:  
-   - [Project 1](#) *(e.g., Cameroon payment API wrapper)*  
-   - [Project 2](#) *(e.g., French JS tutorials)*  
+   - [Project 1](#) *(e.g., Website Js Cameroun)*
 3. **Mentor** aspiring developers.  
 
 ---
